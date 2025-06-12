@@ -1,2 +1,3 @@
-# dsa
-starting my everyday dsa goals
+# DSA everyday
+
+##Start everyday for DSA
